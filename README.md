@@ -8,6 +8,7 @@ This repository showcases a Power BI project that analyzes the Tata Motors, Tata
 Key Highlights:
 
 Data Sources: Wikipedia, Kaggle
+
 Tools: Power BI for visualization
 
 Features:
