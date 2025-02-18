@@ -1,18 +1,29 @@
-# TATA-Groups-Analysis
-Repository Title:
-Tata Motors, Tata Group, and Tata Stocks Analysis using Power BI
+Timeframe: December 2024
+Objective:
+Analyzed the contributions of Tata Motors, Tata Group, and Tata stocks across industries and markets using Power BI to create a visually engaging dashboard.
 
-Description:
-This repository showcases a Power BI project that analyzes the Tata Motors, Tata Group, and their stock market trends.
+Key Activities:
 
-Key Highlights:
+Data Collection and Cleaning: Gathered data from reliable sources like Wikipedia and Kaggle, ensuring accuracy and relevance.
 
-Data Sources: Wikipedia, Kaggle
+Data Visualization: Designed insightful charts and tables to analyze trends, stock performance, and market contributions.
 
-Tools: Power BI for visualization
+Trend Analysis: Explored Tata’s industry impact and contributions to the stock market.
 
-Features:
-Industry trends visualization
-Stock market performance charts
-Insightful tables for detailed analysis
-Feel free to explore, clone, and provide feedback. Contributions are welcome!
+
+Key Takeaways:
+
+Mastered data cleaning and visualization techniques.
+
+Gained in-depth knowledge of Tata’s influence on global industries and markets.
+
+
+Skills Used:
+
+Data Analysis
+
+Data Visualization
+
+
+Outcome:
+This project enhanced my analytical and visualization skills by transforming raw data into actionable insights.
